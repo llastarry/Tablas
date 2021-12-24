@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+        <html lang="es">
+		<head>
+		<meta charset="ulf-8">
+		<link href="style.css" rel="stylesheet">
+		</head>	
+		
+		<body>
+                <h1><b>CFGM Sist. Microinf. I Xarxes</b></h1>
+                <div>
+                <p>Grup: SMX2B</p>
+                <p>Tutor: Rocco Ballester</p>
+                <p>Aula Turing (3.03)</p>
+                </div>
+                <table>
+                  <tr>
+                    <th>HORA</th>
+                    <th>Dilluns</th>
+                    <th>Dimarts</th>
+                    <th>Dimecres</th>
+                    <th>Dijous</th>
+                    <th>Divendres</th>
+                  </tr>
+                  <tr>
+                    <th>8:00-9:05</th>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td class="MP04" rowspan="2" colspan="1">MP04</td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <th>9:05-10:05</th>
+                    <td class="MP06" rowspan="2" colspan="1">MP06</td>
+                    <td class="MP12" rowspan="2" colspan="1">MP12</td>
+                    <td class="MP08" rowspan="2" colspan="1">MP08</td>
+                    <td class="MP07" rowspan="2" colspan="1">MP07</td>
+                  </tr>
+                  <tr>
+                    <th>10:05-11:00</th>                  
+                    <td class="MP12" >MP12</td>
+
+                  </tr>
+                  <tr>
+                    <th>11:00-11:30</th>
+                    <td class="patio" colspan="5">Patio</td>
+                 
+                  </tr>
+                  <tr>
+                    <th>11:30-12:35</th>
+                    <td class="MP04" rowspan="2">MP04</td>
+                    <td class="MP07">MP07</td>
+                    <td class="MP07" rowspan="2">MP07</td>
+                    <td class="MP06" rowspan="2">MP06</td>
+                    <td class="MP10">MP10</td>
+                  </tr>
+                  <tr>
+                    <th>12:35-13:35</th>
+                    <td class="MP08" rowspan="2">MP08</td>
+                    <td class="MP08" rowspan="2">MP08</td>
+                  </tr>
+                  <tr>
+                    <th>13:35-14:30</th>
+                    <td class="T">T</td>
+                    <td>&nbsp;</td>
+                    <td class="MP10">MP10</td>
+                  </tr>
+                </table>
+                </body>
+                <br>
+                <body>
+                <table class="table2">
+                  <tr>
+                    <th>Mòduls professionals</th>
+                    <th>Professorat</th>
+                  </tr>
+                  <tr>
+                    <td><b>MP04</b> Sistemes operatius en xarxa</td>
+                    <td>Rocco Ballester</td>
+                  </tr>
+                  <tr>
+                    <td><b>MP06</b> Seguretat informàtica</td>
+                    <td>Jordi Farrero</td>
+                  </tr>
+                  <tr>
+                    <td><b>MP07</b> Serveis de xarxa</td>
+                    <td>Victor Carceler</td>
+                  </tr>
+                  <tr>
+                    <td><b>MP08</b> Aplicacions web</td>
+                    <td>David Rodríguez</td>
+                  </tr>
+                  <tr>
+                    <td><b>MP10</b> Empresa i iniciativa emprendedora</td>
+                    <td>Carles Matarredona</td>
+                  </tr>
+                  <tr>
+                    <td><b>MP12</b>Crèdit de síntesi</td>
+                    <td>Jordi Farrero/Rocco Ballester</td>
+                  </tr>
+                </body>
+
+
+        </html>
+
+
